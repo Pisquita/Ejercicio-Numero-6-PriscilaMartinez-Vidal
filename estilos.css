@@ -1,0 +1,56 @@
+table {
+    width: 1000px;
+    background-color: yellow;
+    
+    
+    }
+    
+    table,th,td{
+    
+      border: 1px solid black;  
+      border-collapse: collapse;
+      padding: 5px;
+      border-bottom-style: dashed;
+      border-bottom-color: red;
+      
+    }
+    caption {
+    
+        color: black;
+        font-family: arial;
+        font-size: 30px;
+        line-height: 60px;
+       
+    }
+    
+
+    th {
+        color:red;
+        background-color:yellow;
+        border-collapse:collapse; border:none;
+        
+    }
+
+    td{
+        text-align: left;
+        
+    }
+
+       
+        
+
+
+        
+    
+
+ 
+        
+       
+    
+    
+
+   
+        
+ 
+    
+    
